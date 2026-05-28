@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 var express = require('express');
 var http = require('http');
 var Server = require('socket.io').Server;
